@@ -1,2 +1,4 @@
 # Projekt-1
-lesson 1
+
+
+czesc nazywam sie Adrian
