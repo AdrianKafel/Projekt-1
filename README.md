@@ -2,3 +2,5 @@
 
 
 czesc nazywam sie Adrian
+
+edit 
